@@ -1,0 +1,16 @@
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+torchaudio==2.6.0+cu118
+transformers
+huggingface-hub==0.29.2
+matplotlib==3.7.2
+numpy
+opencv-python==4.8.0.74
+Pillow==9.4.0
+scipy==1.11.1
+scikit-learn
+tqdm==4.65.0
+# CUDA-related dependencies (Choose based on your GPU compatibility)
+nvidia-cublas-cu11==11.11.3.6
+nvidia-cuda-runtime-cu11==11.8.89
+nvidia-cudnn-cu11==9.1.0.70
